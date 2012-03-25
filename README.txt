@@ -1,3 +1,6 @@
+# GitHub commit code
+git commit -a -m "Comment"
+
 # GitHub push code
 $ git remote add origin git@github.com:<username>/sample_app.git
 $ git push origin master
